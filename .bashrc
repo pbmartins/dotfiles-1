@@ -54,6 +54,8 @@ alias md2html='python -m markdown'
 alias venv3='source ~/bin/venv3/bin/activate'
 alias pjson='python -m json.tool'
 
+alias pubip='wget -qO- http://ipecho.net/plain ; echo'
+
 #######################################################################
 #                       Additional settings:                          #
 #######################################################################
